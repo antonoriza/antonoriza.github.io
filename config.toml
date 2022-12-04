@@ -123,7 +123,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
           gravatarEmail = ""
           avatarURL = "../avatar.svg"
           title = "Juan Antonio Oriza Armas"
-          subtitle = "Embedded Software engineer"
+          subtitle = "Embedded Software Engineer <br /> Quantitative Finance Grad Student"
           typeit = false
           social = true
           disclaimer = "Personal Blog"
@@ -142,7 +142,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   [languages.es]
     weight = 1
     languageCode = "es"
-    languageName = "Spanish"
+    languageName = "Español"
     copyright = "Este sitio y su contendio se encuentra licenciado bajo Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)"
     [languages.es.params.header.title]
       logo = ""
@@ -187,7 +187,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
           gravatarEmail = ""
           avatarURL = "../avatar.svg"
           title = "Juan Antonio Oriza Armas"
-          subtitle = "Embedded Software engineer"
+          subtitle = "Ing. Sistemas Computacionales <br /> Estudiante de Maestria en Finanzas Cuantitativas"
           typeit = false
           social = true
           disclaimer = "Blog Personal"
@@ -210,9 +210,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 #########################
 #         SEO           #
 #########################
-  # Google analytics code [UA-XXXXXXXX-X]
-    googleAnalytics = ""
-
   # Website title for Open Graph and Twitter Cards
   params.title = "Juan Antonio Oriza Personal Website"
   
@@ -220,12 +217,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   params.description = "Juan Antonio Oriza Personal Website"
   
   # Website images for Open Graph and Twitter Cards
-  params.images = ["/logo.png"]
+  params.images = ["../avatar.svg"]
 
   #  Site SEO config
   [params.seo]
     # image URL
-    image = ""
+    image = "../avatar.svg"
     # thumbnail URL
     thumbnailUrl = ""
 
@@ -234,7 +231,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-8SBZWWKMXC"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
@@ -248,14 +245,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     # Yandex Metrica
     [params.analytics.yandexMetrica]
       id = ""
-      
-  # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
-  [params.verification]
-    google = ""
-    bing = ""
-    yandex = ""
-    pinterest = ""
-    baidu = ""
 
 
 #########################
@@ -269,36 +258,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
       message = "Este sitio usa cookies"
       dismiss = ""
       link = ""
-
-#########################
-#      Robots txt       #
-#########################
-enableRobotsTXT = true
-# whether to use git commit log
-enableGitInfo = false
-# whether to use emoji code
-enableEmoji = true
-# ignore some build errors
-ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
-
-
-#########################
-#        Sitemap        #
-#########################
-# Sitemap config
-[sitemap]
-  changefreq = "weekly"
-  filename = "sitemap.xml"
-  priority = 0.5
-
-
-#########################
-#      Permalinks       #
-#########################
-# Permalinks config
-[Permalinks]
-  # posts = ":year/:month/:filename"
-  posts = ":filename"
 
 
 #########################
@@ -373,7 +332,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 
 #########################
-#    TypeIt config      #
+#  TypeIt config - NA   #
 #########################
   [params.typeit]
     # typing speed between each step (measured in milliseconds)
@@ -387,7 +346,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 
 #########################
-#    Section Config      #
+#  Section Config - NA  #
 #########################
   #  Section (all posts) page config
   [params.section]
@@ -400,7 +359,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 
 #########################
-#    List Config        #
+#   List Config - NA    #
 #########################
   #  List (category or tag) page config
   [params.list]
@@ -411,9 +370,39 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # amount of RSS pages
     rss = 10
 
+#########################
+#    Robots txt - NA    #
+#########################
+enableRobotsTXT = true
+# whether to use git commit log
+enableGitInfo = false
+# whether to use emoji code
+enableEmoji = true
+# ignore some build errors
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
 
 #########################
-#     Compatibility     #
+#     Sitemap - NA      #
+#########################
+# Sitemap config
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+
+#########################
+#    Permalinks - NA    #
+#########################
+# Permalinks config
+[Permalinks]
+  # posts = ":year/:month/:filename"
+  posts = ":filename"
+
+
+#########################
+#  Compatibility - NA   #
 #########################
   #  Compatibility config
   [params.compatibility]
@@ -423,7 +412,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     objectFit = false
 
 #########################
-#      Git Info         #
+#     Git Info - NA     #
 #########################
   # public git repo url only then enableGitInfo is true
   params.gitRepo = ""
