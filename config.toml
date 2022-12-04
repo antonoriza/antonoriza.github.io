@@ -228,7 +228,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
   #  Analytics config
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "G-8SBZWWKMXC"
