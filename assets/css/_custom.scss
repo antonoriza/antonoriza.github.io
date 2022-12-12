@@ -1,6 +1,13 @@
 // ==============================
 // Custom style
 // ==============================
+
+//Align to left main page titles
 .special .single-title, .special .single-subtitle {
     text-align: left;
+}
+
+//Justify all paragraphs
+p {
+    text-align: justify;
 }

@@ -15,3 +15,19 @@ He sido voluntario en varias organizaciones donde he tenido la oportunidad de co
 Realmente me encanta aprender cosas nuevas y resolver problemas de una manera creativa e innovadora a través de hardware y software.
 
 Si crees que mis conocimientos y experiencia pueden ayudar a tu empresa, startup o proyecto... ¡envíame un email y hablamos!
+
+## Pasatiempos e intereses
+
+El continuo aprendizaje y exploración de la tecnología hace que me identifique como Polímata tecnológico o al menos como un "T-shaped" developer. 
+
+Realmente me atraen muchos campos, pero si tuviera que elegir, diría hardware y software de código abierto, Internet de las cosas, blockchain&criptomonedas, finanzas cuantitativas (especialmente todo lo relacionado a finanzas cuantitativas), computo en la nube y energy Harvesting.
+
+Cuando no estoy sentado frente a mi teclado, trato de mantenerme en forma haciendo ejercicio en el gimnasio y pasando tiempo con mis mascotas. Me encanta entrenar artes marciales (taekwondo, karate y kickboxing) y bailar (salsa y rock&roll).
+
+## Acerca de este sitio web
+
+Este sitio web utiliza un stack Jamstack y se ha construido sobre el Framework Hugo. El hosting y el servicio de encriptación viene de GitHub pages.
+
+¿Cuál es el propósito de este sitio web? También me pregunté esto... si hoy quiero compartir alguna idea puedo twitearla, si quiero compartir un momento puedo usar instagram, youtube o tiktok, si quiero ser gracioso puedo compartir un simple meme y eso es todo.
+
+Como desarrollador me atrae crear y usar mis propias herramientas y de alguna manera tener mi propio lugar digital en este espacio llamado web. Además, me ayuda a desarrollar mis habilidades de pensamiento crítico a través de la reflexión de diferentes cosas que encuentro día a día... como dijo alguien "convertirse en un pensador científico requiere práctica y escribir es una poderosa ayuda para la reflexión". Así que aquí estaré escribiendo blogs, ensayos e ideas que a veces me vienen a la mente.
