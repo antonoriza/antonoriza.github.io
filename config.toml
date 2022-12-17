@@ -18,7 +18,7 @@ dateFormat = "2006-01-02"
 
 
 author.name = "Juan Antonio Oriza"
-author.email = "juan.oriza@my.unitec.edu.mx"
+author.email = "juanantonio@antonoriza.com"
 author.link = "#"
 
 
@@ -82,9 +82,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     [languages.en.params.header.title]
       logo = ""
-      name = "Hello there!"
+      name = "HomePage"
       pre = ""
-      post = "✌️"
+      post = ""
     [languages.en.menu]
       [[languages.en.menu.main]]
         weight = 1
@@ -123,7 +123,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
           gravatarEmail = ""
           avatarURL = "../avatar.svg"
           title = "Juan Antonio Oriza Armas"
-          subtitle = "Embedded Software Engineer <br /> Quantitative Finance Grad Student"
+          subtitle = "Software Engineer"
           typeit = false
           social = true
           disclaimer = "Personal Blog"
@@ -134,7 +134,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         Spotify.prefix = "https://open.spotify.com/show/"
         Spotify.id = "7oE1AmN43C5fvAWlQdBcVC/"
         MediaWiki= "https://en.wikipedia.org/wiki/User:JuanTo%C3%B1o"
-        Email = "juan.oriza@my.unitec.edu.mx"
+        Email = "juanantonio488@antonoriza.com"
         RSS = false
 #########################
 #    Spanish website    #
@@ -146,9 +146,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     copyright = "Este sitio y su contendio se encuentra licenciado bajo Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)"
     [languages.es.params.header.title]
       logo = ""
-      name = "¡Quiúbole!"
+      name = "Inicio"
       pre = ""
-      post = "✌️"
+      post = ""
     [languages.es.menu]
       [[languages.es.menu.main]]
         weight = 1
@@ -187,7 +187,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
           gravatarEmail = ""
           avatarURL = "../avatar.svg"
           title = "Juan Antonio Oriza Armas"
-          subtitle = "Ing. Sistemas Computacionales <br /> Estudiante de Maestria en Finanzas Cuantitativas"
+          subtitle = "Ing. Sistemas Computacionales"
           typeit = false
           social = true
           disclaimer = "Blog Personal"
@@ -198,7 +198,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         Spotify.prefix = "https://open.spotify.com/show/"
         Spotify.id = "7oE1AmN43C5fvAWlQdBcVC/"
         MediaWiki= "https://es.wikipedia.org/wiki/Usuario:JuanTo%C3%B1o"
-        Email = "juan.oriza@my.unitec.edu.mx"
+        Email = "juanantonio@antonoriza.com"
         RSS = false
 
 
