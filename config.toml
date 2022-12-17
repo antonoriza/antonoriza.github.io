@@ -86,14 +86,14 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
       pre = ""
       post = ""
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        weight = 1
-        identifier = "posts"
-        pre = ""
-        post = ""
-        name = "Posts"
-        url = "/posts/"
-        title = "Posts"
+      #[[languages.en.menu.main]]
+        #weight = 1
+        #identifier = "posts"
+        #pre = ""
+        #post = ""
+        #name = "Posts"
+        #url = "/posts/"
+        #title = "Posts"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "about"
@@ -104,7 +104,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         title = "About"
     [languages.en.params]
       [languages.en.params.search]
-        enable = true
+        enable = false
         type = "algolia"
         contentLength = 4000
         placeholder = ""
@@ -150,14 +150,14 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
       pre = ""
       post = ""
     [languages.es.menu]
-      [[languages.es.menu.main]]
-        weight = 1
-        identifier = "posts"
-        pre = ""
-        post = ""
-        name = "Articulos"
-        url = "/posts/"
-        title = "Articulos"
+      #[[languages.es.menu.main]]
+        #weight = 1
+        #identifier = "posts"
+        #pre = ""
+        #post = ""
+        #name = "Articulos"
+        #url = "/posts/"
+        #title = "Articulos"
       [[languages.es.menu.main]]
         weight = 2
         identifier = "about"
@@ -168,7 +168,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         title = "Acerca de mi"
     [languages.es.params]
       [languages.es.params.search]
-        enable = true
+        enable = false
         type = "algolia"
         contentLength = 4000
         placeholder = ""
