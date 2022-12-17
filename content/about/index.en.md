@@ -16,7 +16,7 @@ I really love learn new things and solve problems in a creative and innovative w
 
 When I'm not sat in front of my keyboard, I try to stay in shape working out at the gym and spending quality time with my pets. I love training martial arts (I'm black belt in taekwondo and karate) and dancing (salsa and rock&roll).
 
-If you believe my knowledge and experience can help your company or project... reach me out via email (juanantonio@antonoriza.com) and lets talk!
+If you believe my knowledge and experience can help your company or project... please reach out to me via email (juanantonio@antonoriza.com) and lets talk!
 
 That's it!<br/>
 Have a nice day!<br/>
