@@ -131,8 +131,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         Linkedin = "juan-antonio-oriza-armas-296b29143"
         Twitter = "JuanAntonio488"
         GitHub = "JuanAntonio488"
-        Spotify.prefix = "https://open.spotify.com/show/"
-        Spotify.id = "7oE1AmN43C5fvAWlQdBcVC/"
+        Spotify.prefix = "https://open.spotify.com/"
+        Spotify.id = "show/7oE1AmN43C5fvAWlQdBcVC?si=622a5fab097b417f"
         MediaWiki= "https://en.wikipedia.org/wiki/User:JuanTo%C3%B1o"
         Email = "juanantonio488@antonoriza.com"
         RSS = false
@@ -195,8 +195,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         Linkedin = "juan-antonio-oriza-armas-296b29143"
         Twitter = "JuanAntonio488"
         GitHub = "JuanAntonio488"
-        Spotify.prefix = "https://open.spotify.com/show/"
-        Spotify.id = "7oE1AmN43C5fvAWlQdBcVC/"
+        Spotify.prefix = "https://open.spotify.com/"
+        Spotify.id = "show/7oE1AmN43C5fvAWlQdBcVC?si=622a5fab097b417f"
         MediaWiki= "https://es.wikipedia.org/wiki/Usuario:JuanTo%C3%B1o"
         Email = "juanantonio@antonoriza.com"
         RSS = false
