@@ -10,7 +10,7 @@ Hi! I'm a Computer Systems Engineer with experience in the development life cycl
 
 My professional experience ranges from Startups to BigTechs, being part of innovative and multicultural teams designing and creating technological solutions such as products and services that meet market demands for various projects using latest technological trends like IoT, TinnyML and Cloud.
 
-I have been volunteer in different organizations where I have had the opportunity to contribute in technical and managment roles. These experiences include Wikimedia Mexico, "NodeBots MX" maker community and "IBM Z Systems".
+I have been volunteer in different organizations where I have had the opportunity to contribute in technical and managment roles. These experiences include Wikimedia Mexico, NodeBotsMX makers community and IBM Z Systems.
 
 I really love learn new things and solve problems in a creative and innovative way through hardware and software. Some side projects I do in my free time are website development, blockchain experiments (using ethereum and hyperledger networks), and podcasting (you can listen to my "Wikimentes podcast" in your favourite podcasting platform).
 
