@@ -5,18 +5,14 @@ draft: false
 description: "Acerca de mi"
 images: [""]
 ---
+¡Hola! Soy ingeniero en sistemas computacionales con experiencia en el diseño y desarrollo de sistemas embebidos y aplicaciones de aprendizaje automático.
 
-¡Hola! Soy Ingeniero en Sistemas Computacionales con experiencia en la creación y desarrollo de Sistemas Embebidos y  aplicaciones con Machine Learning (ML).
+Mi experiencia profesional abarca desde startups hasta BigTechs, siendo parte de equipos innovadores y multiculturales diseñando y desarrollando soluciones que satisfacen las necesidades y demandas del mercado. Tengo una sólida experiencia trabajando con Internet de las cosas (centrándome en redes celulares/LoRa/BLE), TinyML y plataformas en la nube (AWS, GCP).
 
-Mi experiencia profesional abarca desde Startups hasta BigTechs, formando parte de equipos innovadores y multiculturales diseñando y creando soluciones tecnologícas mendiante productos y servicios que satisfacen las demandas del mercado para diversos proyectos haciendo uso de paradigmas de última generación como IoT, TinnyML y Cloud.
+He sido voluntario en diferentes organizaciones donde he tenido la oportunidad de contribuir en roles técnicos y de gestión, estas experiencias incluyen Wikimedia México, NodeBotsMX, IBM Z Systems.
 
-Asimismo he sido voluntario en varias organizaciones donde he tenido la oportunidad de contribuir en roles técnicos y de gestión. Estas experiencias incluyen Wikimedia México, la comunidad de makers NodeBotsMX  y IBM Z Systems.
+Me encanta aprender cosas nuevas y resolver problemas de manera creativa e innovadora a través de hardware y software. Algunos proyectos que hago en mi tiempo libre como hobbies incluyen sitios web, cosas de blockchain y podcasting (puedes escuchar mi podcast "Wikimentes" en tu plataforma de podcasting favorita).
 
-Realmente me encanta aprender cosas nuevas y resolver problemas de una manera creativa e innovadora a través de hardware y software. Los side projects que realizo en mi tiempo libre abarcan el desarrollo de sitios web, experimentos con blockchain (usando las redes de ethereum e hyperledger) y podcastear (visita mi olvidado podcast  "Wikimentes").
+Cuando no estoy delante de mi teclado, trato de mantenerme en forma haciendo ejercicio en el gimnasio y pasando tiempo de calidad con mis mascotas. Me encanta entrenar artes marciales (¡soy cinturón negro de 1er dan en taekwondo y karate!) y bailar (principalmente salsa y rock & roll).
 
-Cuando no estoy sentado frente a mi teclado, trato de mantenerme en forma haciendo ejercicio en el gimnasio y pasando tiempo con mis mascotas. Me encanta entrenar artes marciales (siendo cinta negra 1° Dan en taekwondo, karate) asi como bailar (salsa y rock&roll).
-
-Si crees que mis conocimientos y experiencia pueden ayudar a tu empresa y/o proyecto... ¡envíame un email (juanantonio@antonoriza.com) y hablemos!
-
-¡Que tengas buen dia!<br/>
-¡Saludos!
+Si crees que mi conocimiento y experiencia pueden ayudar a tu empresa o proyecto a tener éxito, no dudes en contactarme por correo electrónico a juanantonio@antonoriza.com ¡y hablemos!
