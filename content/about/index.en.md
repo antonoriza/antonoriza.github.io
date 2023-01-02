@@ -7,7 +7,7 @@ images: [""]
 ---
 I'm a Computer Systems Engineer with experience in the development life cycle of Embedded Systems and ML applications with proven ability troubleshooting critical software issues and delivering reliable software on schedule.
 
-My professional experience ranges from Startups to BigTechs, being part of innovative and multicultural teams designing and developing solutions that meet market needs and demands. I have strong experience working with Internet of Things (focusing on celullar / LoRa / BLE networks), TinyML and Cloud platforms (AWS, GCP).
+My professional experience ranges from Startups to BigTechs, being part of innovative and multicultural teams designing and developing solutions that meet market needs and demands. I have strong experience working with Internet of Things (focusing on celullar / LoRa / BLE networks and MCU firmware&software development), embedded Machine Learning and Cloud platforms (AWS, GCP).
 
 I have been volunteer in different organizations where I have had the opportunity to contribute in technical and managment roles. These experiences include Wikimedia Mexico, NodeBotsMX, and IBM Z Systems.
 

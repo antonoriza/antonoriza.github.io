@@ -7,7 +7,7 @@ images: [""]
 ---
 ¡Hola! Soy ingeniero en sistemas computacionales con experiencia en el diseño y desarrollo de sistemas embebidos y aplicaciones de aprendizaje automático.
 
-Mi experiencia profesional abarca desde startups hasta BigTechs, siendo parte de equipos innovadores y multiculturales diseñando y desarrollando soluciones que satisfacen eficientemente las necesidades y demandas del mercado. Tengo una sólida experiencia trabajando con Internet de las cosas (centrándome en redes celulares/LoRa/BLE), machine learning embebido y plataformas en la nube (AWS, GCP).
+Mi experiencia profesional abarca desde startups hasta BigTechs, siendo parte de equipos innovadores y multiculturales diseñando y desarrollando soluciones que satisfacen eficientemente las necesidades y demandas del mercado. Tengo una sólida experiencia trabajando con Internet de las cosas (centrándome en redes celulares/LoRa/BLE asi como en desarrollo de firmware&software para ARM MCUs), machine learning embebido y plataformas en la nube (AWS, GCP).
 
 He sido voluntario en diferentes organizaciones donde he tenido la oportunidad de contribuir en roles técnicos y de gestión, estas experiencias incluyen Wikimedia México, NodeBotsMX, IBM Z Systems.
 
