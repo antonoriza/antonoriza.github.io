@@ -82,7 +82,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     [languages.en.params.header.title]
       logo = ""
-      name = ""
+      name = "Home"
       pre = "<i class='fa-solid fa-house' aria-hidden='true'></i>"
       post = ""
     [languages.en.menu]
@@ -146,7 +146,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     copyright = "Este sitio y su contendio se encuentra licenciado bajo Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)"
     [languages.es.params.header.title]
       logo = ""
-      name = ""
+      name = "Inicio"
       pre = "<i class='fa-solid fa-house' aria-hidden='true'></i>"
       post = ""
     [languages.es.menu]
