@@ -63,7 +63,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     #  whether to show the author
     author = true
     # Site creation time
-    since = 2022
+    since = 2023
     # license info (HTML format is supported)
     license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
@@ -318,7 +318,9 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   #  App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Juan Antonio Personal Website"
+    title = "Juan Antonio Oriza Personal Website"
+    # website description for RSS, SEO, Open Graph and Twitter Cards
+    description = "My personal place on the internet where I write and share thoughts&ideas"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
