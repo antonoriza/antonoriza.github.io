@@ -11,7 +11,7 @@ defaultContentLanguage = "en"
 baseURL = "https://www.antonoriza.com"
 
 theme = "LoveIt"
-defaultTheme = "light"  # Note: site default theme ["auto", "light", "dark"]
+defaultTheme = "dark"  # Note: site default theme ["auto", "light", "dark"]
 
 
 dateFormat = "2006-01-02"
