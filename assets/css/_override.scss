@@ -1,8 +1,26 @@
 // ==============================
 // Override Variables
 // ==============================
-$global-background-color-dark: #0D1117;
-$global-font-color-dark: #C9D1D9;
-$global-font-secondary-color-dark: #8B949E;
-$global-link-color-dark: #C9D1D9;
+// Header dark theme
 $header-background-color-dark: #111111;
+$global-border-color-dark: #2d96bd;
+// Body dark theme
+$global-background-color-dark: #0D1117;
+// Font color dark theme
+$global-font-color-dark: #ffffff;
+$global-font-secondary-color-dark: #ffffff;
+
+// Color of the links in header  and footer
+$global-link-color-dark: #ffffff;
+$global-link-hover-color-dark: #2d96bd;
+
+// Color of the single links
+$single-link-color: #161209;
+$single-link-color-dark: #ffffff;
+
+// Color of the hover single links
+$single-link-hover-color: #2d96bd;
+$single-link-hover-color-dark: #2d96bd;
+
+// Color of the selected text in normal mode
+$selection-color: rgba(253, 227, 17, 1);
