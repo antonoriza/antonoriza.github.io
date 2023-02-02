@@ -6,3 +6,17 @@
 .special .single-title, .special .single-subtitle {
     text-align: left;
 }
+
+@media only screen and (max-width: 960px) {
+    .special .single-title{
+        font-size: 17px;
+        text-align: center;
+        margin: 24px 0px 24px 0px;
+        padding: 0px 20px;
+    }
+
+    .content {
+        padding: 0 20px 20px 20px;
+        font-size: 14px;
+    }
+}
