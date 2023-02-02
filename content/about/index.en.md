@@ -15,4 +15,4 @@ I really love learn new things and solve problems in a creative and innovative w
 
 When I'm not sat in front of my keyboard, I try to stay in shape working out at the gym and spending quality time with my pets. I love training martial arts (I'm 1st dan black belt in taekwondo and karate!) and dancing (mainly salsa and rock&roll).
 
-If you believe my knowledge and experience can help your company or project to succeed, please don't hesitate to contact me via email to juanantonio@antonoriza.com and lets talk!
+If you believe my knowledge and experience can help your company or project to succeed, please don't hesitate to contact me via email to «hi@antonoriza.com» and lets talk!

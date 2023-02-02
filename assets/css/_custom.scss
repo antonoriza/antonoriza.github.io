@@ -5,8 +5,10 @@
 //Align to left main page titles
 .special .single-title, .special .single-subtitle {
     text-align: left;
+    font-size: 1.4rem;
 }
 
+//CSS only has impact in mobile versions
 @media only screen and (max-width: 960px) {
     .special .single-title{
         font-size: 17px;

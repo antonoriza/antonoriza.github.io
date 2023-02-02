@@ -15,4 +15,4 @@ Me encanta aprender cosas nuevas y resolver problemas de manera creativa e innov
 
 Cuando no estoy frente al teclado, trato de mantenerme en forma haciendo ejercicio en el gimnasio y pasando tiempo de calidad con mis mascotas. Asimismo me encanta entrenar artes marciales (¡soy cinturón negro de 1er dan en taekwondo y karate!) y bailar (principalmente salsa y rock & roll).
 
-Si crees que mi conocimiento y experiencia pueden ayudar a tu empresa o proyecto a tener éxito, no dudes en contactarme por correo electrónico a juanantonio@antonoriza.com ¡y hablemos!
+¡Si crees que mi conocimiento y experiencia pueden ayudar a tu empresa o proyecto a tener éxito, no dudes en contactarme por correo electrónico a «hola@antonoriza.com» y hablemos!
