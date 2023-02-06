@@ -10,7 +10,7 @@ title = "Juan Antonio Personal Website"
 defaultContentLanguage = "en"
 baseURL = "https://www.antonoriza.com"
 
-theme = "LoveIt"
+theme = "HateIt_Theme"
 defaultTheme = "dark"  # Note: site default theme ["auto", "light", "dark"]
 
 
