@@ -2,6 +2,19 @@
 title: "Why I have a Blog?"
 date: 2023-02-07T00:41:32-06:00
 draft: false
+toc:
+  enable: false
+  auto: false
+linkToMarkdown: false
+share:
+      enable : true
+      Twitter : true
+      HackerNews : true
+      Reddit : true
+      Whatsapp : false
+      Facebook: False
+      Line : false
+      Weibo : false
 ---
 I have been curious about starting or not a blog. There are a lot of texts out there that already share good insights around different topics of my interest, so why should I repeat the same information? I think there are a lot of things out there waiting to be told in a fresh and wild way.
 

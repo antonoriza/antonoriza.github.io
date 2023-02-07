@@ -2,6 +2,20 @@
 title: "¿Por qué tengo un Blog?"
 date: 2023-02-07T00:41:36-06:00
 draft: false
+toc:
+  enable: false
+  auto: false
+linkToMarkdown: false
+share:
+      enable : true
+      Twitter : true
+      Whatsapp : true
+      HackerNews : true
+      Reddit : true
+      Whatsapp : false
+      Facebook: False
+      Line : false
+      Weibo : false
 ---
 Recientemente me he cuestionado si debería o no empezar un blog. Hay muchos textos ahí fuera que ya comparten buenas ideas sobre diferentes temas de mi interés, entonces ¿qué valor hay en repetir la misma información? Creo que hay muchos temas por ahí esperando ser contados de manera fresca bajo un nuevo punto de vista.
 
