@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué tener un blog?"
+title: "¿Por qué tener un blog?"
 date: 2023-02-23
 draft: false
 description: "¿Por qué tener un blog?"

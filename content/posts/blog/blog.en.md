@@ -1,6 +1,6 @@
 ---
 title: "Why a blog?"
-date: 2022-12-04
+date: 2023-02-23
 draft: false
 description: "Why a blog?"
 images: [""]
