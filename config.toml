@@ -85,14 +85,14 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
       pre = "<i class='fa-solid fa-house' aria-hidden='true'></i>"
       post = ""
     [languages.en.menu]
-      #[[languages.en.menu.main]]
-        #weight = 1
-        #identifier = "posts"
-        #pre = ""
-        #post = ""
-        #name = "Posts"
-        #url = "/posts/"
-        #title = "Posts"
+      [[languages.en.menu.main]]
+        weight = 1
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "Posts"
+        url = "/posts/"
+        title = "Posts"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "about"
@@ -148,14 +148,14 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
       pre = "<i class='fa-solid fa-house' aria-hidden='true'></i>"
       post = ""
     [languages.es.menu]
-      #[[languages.es.menu.main]]
-        #weight = 1
-        #identifier = "posts"
-        #pre = ""
-        #post = ""
-        #name = "Articulos"
-        #url = "/posts/"
-        #title = "Articulos"
+      [[languages.es.menu.main]]
+        weight = 1
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "Articulos"
+        url = "/posts/"
+        title = "Artículos"
       [[languages.es.menu.main]]
         weight = 2
         identifier = "about"
