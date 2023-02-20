@@ -10,19 +10,19 @@ title = "Juan Antonio Personal Website"
 defaultContentLanguage = "en"
 baseURL = "https://www.antonoriza.com"
 
-theme = "HateIt_Theme"
-defaultTheme = "dark"  # Note: site default theme ["auto", "light", "dark"]
+theme = "HateIt"
+defaultTheme = "auto"  # Note: site default theme ["auto", "light", "dark"]
 
 
 dateFormat = "2006-01-02"
 
 
-author.name = "Juan Antonio Oriza"
+author.name = "Juan Antonio Oriza Armas"
 author.email = "hi@antonoriza.com"
 
 
 # default amount of posts in each pages
-paginate = 4
+paginate = 3
 
 
 # copyright description used only for seo schema
