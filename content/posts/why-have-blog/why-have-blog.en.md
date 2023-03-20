@@ -20,7 +20,7 @@ I have been curious about starting or not a blog. There are a lot of texts out t
 
 But the thing is I believe there are a lot of things out there waiting to be told in a fresh and wild way. When you take a different perspective or approach, you may discover insights that others have missed.
 
-This may be contrary to the common belief «there is nothing new under the sun». Of course we can break down ideas into their component parts until we reach the first principles behind it, arguing that all that we know and will know are  just permutations and combinations of them. While it has a kernel of truth, it is a hyper-generalization and over-simplification of everything.
+This may be contrary to the common belief «there is nothing new under the sun». Of course we can break down ideas into their component parts until we reach the first principles behind it, arguing that all that we know and will know are  just permutations and combinations of them. While it has a kernel of truth, it is a hyper-generalization and oversimplification of everything.
 
 The concept of ideas as a scarce resource implies that there is a finite amount of creativity or innovation available in the world and there is nothing more wrong than it. Of course an idea cannot be expected to be novel to all individuals and It's easy to fall into the trap of regurgitating the same ideas and cliches often found in common knowledge and communication channels. That is why I had my doubts about this blog.
 
