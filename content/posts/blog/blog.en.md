@@ -1,6 +1,6 @@
 ---
-title: "Why I have a Blog?"
-date: 2023-02-07T00:41:32-06:00
+title: "Why do I have a Blog?"
+date: 2023-03-20
 draft: false
 toc:
   enable: false
@@ -11,7 +11,7 @@ share:
       Twitter : true
       HackerNews : true
       Reddit : true
-      Whatsapp : false
+      Whatsapp : true
       Facebook: False
       Line : false
       Weibo : false
@@ -20,7 +20,7 @@ I have been curious about starting or not a blog. There are a lot of texts out t
 
 But the thing is I believe there are a lot of things out there waiting to be told in a fresh and wild way. When you take a different perspective or approach, you may discover insights that others have missed.
 
-This may be contrary to the common belief “there is nothing new under the sun”. Of course we can break down ideas into their component parts until we reach the first principles behind it, arguing that all that we know and will know are  just permutations and combinations of them. While it has a kernel of truth, it is a hyper-generalization and over-simplification of everything.
+This may be contrary to the common belief «there is nothing new under the sun». Of course we can break down ideas into their component parts until we reach the first principles behind it, arguing that all that we know and will know are  just permutations and combinations of them. While it has a kernel of truth, it is a hyper-generalization and over-simplification of everything.
 
 The concept of ideas as a scarce resource implies that there is a finite amount of creativity or innovation available in the world and there is nothing more wrong than it. Of course an idea cannot be expected to be novel to all individuals and It's easy to fall into the trap of regurgitating the same ideas and cliches often found in common knowledge and communication channels. That is why I had my doubts about this blog.
 
@@ -28,7 +28,7 @@ But  ideas live in a perpetual feedback loop where these are being recycled, ref
 
 The most impactful ideas are those that take existing ideas and make them accessible or applicable to a wider audience. It’s not about the originality of your idea, it’s about its value and impact. If your idea is innovative to the people who read it, that’s enough.
 
-But how do I know if my idea can be innovative to the people? As someone once said “If you can identify a delusional popular belief, you can find what lies hidden behind it: the contrarian truth”. This is where innovative ideas and insight lies - in the ability to think differently, question the status quo and take a contrarian approach.
+But how do I know if my idea can be innovative to the people? As someone once said «If you can identify a delusional popular belief, you can find what lies hidden behind it: the contrarian truth». This is where innovative ideas and insight lies - in the ability to think differently, question the status quo and take a contrarian approach.
 
 Sometimes ideas can feel clear and complete but It’s only when you try to put them into words that you discover they’re no.  When we put our thoughts and ideas down on paper, we can see them more clearly and objectively and challenge ourselves to think more deeply and critically about the issues that matter most to us. 
 
