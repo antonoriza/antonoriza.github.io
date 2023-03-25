@@ -27,11 +27,11 @@ This idea is relevant in the process of creating products and services, specific
 
 The term “creation” is clear but in the current world a lot of people just copy/duplicate someone else's product/service and implement it in their country or region  targeting it as “innovation”. This is wrong, and what they are merely doing is taking advantage of one of the economic features of globalization.
 
-When you take an existing product/service and make it a little better, it's an incremental innovation. A lot of companies and organizations tend to use this approach as the common approach to keep their competitive advantage in the market. It tends to follow a systematic and structured approach minimizing the risks associated with a “disruptive idea”.
+When you take an existing product/service and make it a little better, it's an incremental innovation. A lot of companies and organizations tend to use this approach to keep their competitive advantage in the market. It tends to follow a systematic and structured way, minimizing the risks associated with a “disruptive idea”.
 
 Incremental innovations often use the “Kaizen” and “PDCA” approach to create small and  incremental improvements to products and services on a regular basis, with the goal of gradually improving performance, quality, and efficiency over time.
 
-But these incremental improvements follow the idea chain of the active product/service, and the "innovative" output (if it exists) would be more of a process of serendipity. There is one quote from “Henry Ford” that summarizes this idea: «If I had asked people what they wanted, they would have said faster horses".  
+But these incremental improvements follow the idea chain of the active product/service, and the "innovative" output (if it exists) would be a serendipity process. There is one quote from Henry Ford that summarizes this idea: «If I had asked people what they wanted, they would have said faster horses".  
 
 When your product/service radically changes the way people use or consume it, it's a disruptive innovation. Disruptive products and services typically start small and grow rapidly, eventually displacing established players in the market, and those who don't accomplish it often don't tend to be as economic and process efficient as they thought and end up being eaten by others».
 
