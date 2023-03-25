@@ -31,7 +31,7 @@ When you take an existing product/service and make it a little better, it's an i
 
 Incremental innovations often use the “Kaizen” and “PDCA” approach to create small and  incremental improvements to products and services on a regular basis, with the goal of gradually improving performance, quality, and efficiency over time.
 
-But these incremental improvements follow the idea chain of the active product/service, and the "innovative" output (if it exists) would be more of a process of serendipity. There is one quote from “Henry Ford” that summarizes this idea: «If I had asked people what they wanted, they would have said faster horses".  
+But these incremental improvements follow the idea chain of the active product/service, and the "innovative" output (if it exists) would be a serendipity process. There is one quote from Henry Ford that summarizes this idea: «If I had asked people what they wanted, they would have said faster horses".  
 
 When your product/service radically changes the way people use or consume it, it's a disruptive innovation. Disruptive products and services typically start small and grow rapidly, eventually displacing established players in the market, and those who don't accomplish it often don't tend to be as economic and process efficient as they thought and end up being eaten by others».
 
