@@ -1,5 +1,5 @@
 ---
-title: "About Incremental and Disruptive inovations"
+title: "About Incremental and Disruptive innovations"
 date: 2023-03-25
 draft: false
 toc:
