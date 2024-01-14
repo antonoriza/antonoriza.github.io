@@ -16,9 +16,9 @@ share:
       Line : false
       Weibo : false
 ---
-The tech stack powering this website
+Hey there! If you know me through my side job related to building websites, you might assume this website is built with WordPress. But nope!
 
-Hey there! If you know me through my side job related to building websites, you might assume this website is built with WordPress. But nope! On my journey to becoming a writer, I wanted to learn something new (WordPress had become too easy for me) and experience the magical feeling that comes with learning and creating something new.
+On my journey to becoming a writer, I wanted to learn something new (WordPress had become too easy for me) and experience the magical feeling that comes with learning and creating something new.
 
 To be honest, my hacker mind initially thought, "Let's build a blog from scratch using an esoteric programming language, create a solid framework, release it as open source to the public, and finally, build the blog on top of it." From another perspective I also considered some great options that focus on the writing experience, such as Bearblog, Substack, and Medium. 
 
@@ -73,4 +73,6 @@ There are a lot of options available to host your Jamstack website for free. Of 
 
 I pushed my Hugo website repository to GitHub (though I hadn't mentioned it earlier, I've been using Git since I created my Hugo website, hehe). It's important to note that this repository must be named "[username].github.io"(because GitHub rules). Then I set up a GitHub action to deploy it every time I pushed a new change, and voila, my website was live! Of course, later on, I connected a custom domain because I wasn't a fan of using the lengthy free URL that GitHub provided.
 
-I truly hope you enjoyed this post! If it was helpful to you, I'm pleased. Please consider sharing it with others or quoting it if, someday, you use content from these words. Happy hacking juakers!
+I truly hope you enjoyed this post! If it was helpful to you, I'm pleased. Please consider sharing it with others or quoting it if, someday, you use content from these words.
+
+Happy hacking juakers!

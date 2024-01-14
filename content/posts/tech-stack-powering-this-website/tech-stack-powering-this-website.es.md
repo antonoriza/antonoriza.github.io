@@ -1,6 +1,6 @@
 ---
 title: "El stack tecnológico de este website"
-date: 2023-12-22
+date: 2024-01-14
 draft: false
 toc:
   enable: false
@@ -16,9 +16,9 @@ share:
       Line : false
       Weibo : false
 ---
-La pila tecnológica que impulsa este sitio web
+¡Hola! Si me conoces por mi trabajo secundario relacionado con la construcción de sitios web, podrías asumir que este sitio está hecho con WordPress.
 
-¡Hola! Si me conoces por mi trabajo secundario relacionado con la construcción de sitios web, podrías asumir que este sitio está hecho con WordPress. ¡Pero no! En mi camino para convertirme en escritor, quería aprender algo nuevo (WordPress ya era demasiado fácil para mí) y experimentar la sensación mágica que viene con aprender y crear algo nuevo.
+¡Pero no! En mi camino para convertirme en escritor, quería aprender algo nuevo (WordPress ya era demasiado fácil para mí) y experimentar la sensación mágica que viene con aprender y crear algo nuevo.
 
 Para ser honesto, mi mente de hacker inicialmente pensó, "Vamos a construir un blog desde cero usando un lenguaje de programación esotérico, crear un marco sólido, lanzarlo como código abierto al público y finalmente, construir el blog sobre él". Desde otra perspectiva, también consideré algunas excelentes opciones centradas en la experiencia de escritura, como Bearblog, Substack y Medium.
 
