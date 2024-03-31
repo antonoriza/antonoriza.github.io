@@ -18,9 +18,9 @@ share:
 ---
 Shortly after I finished High school, I had decided to take 1 year to focus entirely on my entrepreneurial journey before university. I was lucky to be participating in a really good French incubator program led by two great economists in Mexico City. My interactions with them made me ask myself if I wanted to follow the engineering or the economics path.
 
-I clearly choosed the engineering path after evaluating how my strengths and situation at that time could optimize to generate the most impact in my goals. Now the scope of my goals has grown, and thus the knowledge that I need to complete them too. Hopefully, a lot of the needed knowledge seems to hold on to "economics,"
+I clearly choosed the engineering path after evaluating how my strengths and situation at that time could optimize to generate the most impact in my goals. Now the scope of my goals has grown, and thus the knowledge that I need to complete them too. Hopefully, a lot of the needed knowledge seems to hold on to "economics".
 
-Some time ago i heard one of my mentors said _"engineers are good fixing problems but bad at finding them"_. In the realm of entrepreneurship and business, understanding economics is an essential pillar of success, providing a conceptual framework to analyze how value is created, exchanged, and distributed within a society. This knowledge equips entrepreneurs with the tools to navigate complexities, seize opportunities, and create enduring value in the ever-evolving landscape of business and innovation.
+Some time ago i heard one of my mentors said _"engineers are good at fixing problems but bad at finding them"_. In the realm of entrepreneurship and business, understanding economics is an essential pillar of success, providing a conceptual framework to analyze how value is created, exchanged, and distributed within a society. This knowledge equips entrepreneurs with the tools to navigate complexities, seize opportunities, and create enduring value in the ever-evolving landscape of business and innovation.
 
 In this sense, will be sharing part of my notes in this post series. With that said… leeeeets go!
 
@@ -82,49 +82,49 @@ The shift around the network of production and distribution within a capitalist 
 Economic systems are the fundamental structures that societies/goverments use to organize and allocate resources across a geographic region or country to produce, distribute, and consume goods and services. It's like the operating system of an economy, guiding how resources are allocated and decisions are made.
 
 There are various types of economic systems, each with its own set of rules, incentives, and outcomes. Let's break down them:
-* *Hunter-Gatherer* Economy: This was the earliest economic system based on hunting wild animals and gathering edible plants/foods. There was little to no concept of ownership or property rights.
+* **Hunter-Gatherer** Economy: This was the earliest economic system based on hunting wild animals and gathering edible plants/foods. There was little to no concept of ownership or property rights.
   - Nomadic groups constantly moved to find new food sources.
   - No permanent settlements or shelters.
   - Economic activities were hunting, fishing, foraging.
   - Very little surplus production or trade beyond the local tribe/group.
   - Egalitarian social structure with no social stratification.
 
-* *Pastoral Economy*: This emerged with the domestication of animals like cattle, sheep, etc. Pastoral societies were nomadic, basing their economy on herding domesticated livestock.
+* **Pastoral Economy**: This emerged with the domestication of animals like cattle, sheep, etc. Pastoral societies were nomadic, basing their economy on herding domesticated livestock.
   - Followed seasonal grazing patterns for herds.
   - Use of portable tents/shelters rather than permanent settlements.
   - Economic activities centered around animal husbandry.
   - Some barter trade of animals and animal products.
   - Social hierarchies started to emerge between wealthy herders and others.
 
-* *Subsistence Agriculture*: Economy As humans transitioned to settled farming, subsistence agriculture became the economic system where basic crops/foods were produced to meet the needs of the local population.
+* **Subsistence Agriculture**: Economy As humans transitioned to settled farming, subsistence agriculture became the economic system where basic crops/foods were produced to meet the needs of the local population.
   - Development of first permanent villages and simple farming tools.
   - Main crops were grains like wheat, rice, etc. and some vegetables.
   - Very little surplus or trade beyond village/community needs.
   - Start of food storage techniques like granaries.
   - More divisions of labor within communities.
 
-* *Slave Economy*: Prominent in ancient societies like Greece, Rome, and parts of Africa/Americas. The main economic activities relied on slave labor owned by elite classes.
+* **Slave Economy**: Prominent in ancient societies like Greece, Rome, and parts of Africa/Americas. The main economic activities relied on slave labor owned by elite classes.
   - Slaves seen as human property with no rights, freedoms or pay.
   - Allow concentration of labor for large projects and plantations.
   - Trade emerged to facilitate movement of slaves between regions.
   - Economic output determined by sizes of slave labor forces.
   - Stark divide between aristocratic slave-owners and enslaved masses.
 
-* *Feudalism*: The predominant economic system in medieval Europe based on self-sufficient agricultural estates called manors controlled by nobility.
+* **Feudalism**: The predominant economic system in medieval Europe based on self-sufficient agricultural estates called manors controlled by nobility.
   - Manors had a strict hierarchical system of lords, vassals and peasant serfs.
   - Serfs were bound to land and required to labor on the lord's fields.
   - Lords granted fiefs/land to vassals in exchange for military service.
   - Very limited trade between manors except for specialized goods.
   - Social status based strictly on birthright rather than capital ownership.
 
-* *Mercantilism*: This was a pre-capitalist economic policy pursued by European nation-states from the 16th-18th centuries.
+* **Mercantilism**: This was a pre-capitalist economic policy pursued by European nation-states from the 16th-18th centuries.
   - Aimed to promote national economic self-sufficiency and exports.
   - Use of protectionist policies like tariffs and import bans.
   - State-granted monopolies to companies engaged in foreign trade.
   - Colonization of new territories to secure sources of raw materials.
   - Economic development tied to accumulation of gold/bullion reserves.
 
-* *Capitalism*: A market-based economic system with private ownership of capital and property rights as the core principles.
+* **Capitalism**: A market-based economic system with private ownership of capital and property rights as the core principles.
   - Economic decisions driven by the pursuit of profit in free markets.
   - Emergence of wage labor, where people sell their labor for compensation.
   - Encourages entrepreneurship, innovation and economic growth.
@@ -132,20 +132,20 @@ There are various types of economic systems, each with its own set of rules, inc
   - High levels of trade, investment flows across national/global markets.
   - Social mobility possible through acquisition of capital and wealth.
 
-* *Socialism*: This economic system advocates for social ownership and administration of the means of production.Central planning by the state to manage the distribution of resources/goods.
+* **Socialism***: This economic system advocates for social ownership and administration of the means of production.Central planning by the state to manage the distribution of resources/goods.
   - Aims to achieve an equal distribution of wealth and economic outcomes.
   - Little to no private property rights over capital and means of production.
   - Production organized to directly meet societal needs over profit motives.
   - Varying degrees of socialism from liberal market models to full state control.
 
-* *Communism*: An economic/political system envisioned as a classless society based on Marxist theories.
+* **Communism**: An economic/political system envisioned as a classless society based on Marxist theories.
   - State controls all means of production, distribution, and economic output.
   - No personal private property - all wealth is communally owned.
   - Centralized command economy planned by the communist party.
   - Aims for common ownership of property and total abolition of social classes.
   - Authoritarian control to enforce the dictatorship of the proletariat.
 
-* *Mixed Economies*: Most modern economies blend elements of market capitalism and state economic management.
+* **Mixed Economies**: Most modern economies blend elements of market capitalism and state economic management.
   - Allow private property rights and market forces to drive production/consumption.
   - But also have state regulation, public services, social safety nets.
   - Varying degrees of government economic involvement in different sectors.
