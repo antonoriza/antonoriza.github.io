@@ -18,10 +18,8 @@ share:
 ---
 El otro día mientras estaba viendo mi feed de LinkedIn, leí la siguiente frase:
 
-{{< admonition quote >}}
-*«The electric light did not come from the continuous improvement of candles»*
--Oren Harari
-{{< /admonition >}}
+> *«The electric light did not come from the continuous improvement of candles»*
+> — Oren Harari
 
 Esta idea es relevante en el proceso de creación de productos y servicios, específicamente ejemplifica los conceptos de mejora "incremental" versus "disruptiva".
 

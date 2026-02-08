@@ -9,6 +9,8 @@
 title = "Juan Antonio Personal Website"
 defaultContentLanguage = "en"
 baseURL = "https://www.antonoriza.com"
+# Content (articles) live at repo root so you can focus on writing
+contentDir = "../content"
 
 theme = "HateIt"
 defaultTheme = "auto"  # Note: site default theme ["auto", "light", "dark"]
@@ -125,7 +127,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "../avatar.svg"
+          avatarURL = "/avatar.svg"
           title = "Juan Antonio Oriza Armas"
           subtitle = "Software Engineer"
           typeit = false
@@ -185,7 +187,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
         [languages.es.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "../avatar.svg"
+          avatarURL = "/avatar.svg"
           title = "Juan Antonio Oriza Armas"
           subtitle = "Ing. Sistemas Computacionales"
           typeit = false
@@ -213,12 +215,12 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   params.description = "Juan Antonio Oriza Personal Website"
   
   # Website images for Open Graph and Twitter Cards
-  params.images = ["../avatar.svg"]
+  params.images = ["/avatar.svg"]
 
   #  Site SEO config
   [params.seo]
     # image URL
-    image = "../avatar.svg"
+    image = "/avatar.svg"
     # thumbnail URL
     thumbnailUrl = ""
 
@@ -320,7 +322,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = "../CodeSignal.svg"
+    svgFavicon = "/CodeSignal.svg"
     # Android browser theme color
     themeColor = "#ffffff"
     # Safari mask icon color

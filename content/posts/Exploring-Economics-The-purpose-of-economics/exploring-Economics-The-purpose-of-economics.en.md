@@ -27,24 +27,20 @@ In this sense, will be sharing part of my notes in this post series. With that s
 ## What is “economics”? 
 
 Wikipedia gives us this perfect definition:
-{{< admonition quote >}}
-*«Economics focuses on the behavior and interactions of economic agents and how economies work»*
-{{< /admonition >}}
+
+> *«Economics focuses on the behavior and interactions of economic agents and how economies work»*
 
 Investopedia gives this definition:
-{{< admonition quote >}}
-*«Economics is a social science that focuses on the production, distribution, and consumption of goods and services»*
-{{< /admonition >}}
+
+> *«Economics is a social science that focuses on the production, distribution, and consumption of goods and services»*
 
 The University of Buffalo says:
-{{< admonition quote >}}
-*«Economics is the study of scarcity and its implications for the use of resources, production of goods and services, growth of production and welfare over time, and a great variety of other complex issues of vital concern to society»*
-{{< /admonition >}}
+
+> *«Economics is the study of scarcity and its implications for the use of resources, production of goods and services, growth of production and welfare over time, and a great variety of other complex issues of vital concern to society»*
 
 If we try to summarize previous definitions into one we could say:
-{{< admonition quote >}}
-*«Economics examines the behavior and interactions of economic agents, focusing on the production, distribution, and consumption of goods and services in the context of scarcity»*
-{{< /admonition >}}
+
+> *«Economics examines the behavior and interactions of economic agents, focusing on the production, distribution, and consumption of goods and services in the context of scarcity»*
 
 OK, notice these keywords from our previous definition are needed to have economics:
 
