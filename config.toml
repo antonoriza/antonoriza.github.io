@@ -20,9 +20,14 @@ dateFormat = "2006-01-02"
 author.name = "Juan Antonio Oriza Armas"
 author.email = "hi@antonoriza.com"
 
+# For themes that use .Site.Params.author (Hugo 0.124+)
+[params.author]
+  name = "Juan Antonio Oriza Armas"
+  email = "hi@antonoriza.com"
 
-# default amount of posts in each pages
-paginate = 3
+# default amount of posts in each pages (Hugo 0.128+)
+[pagination]
+  pagerSize = 3
 
 
 # copyright description used only for seo schema
@@ -259,7 +264,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
   #  privacy of the Google Analytics (replaced by params.analytics.google)
   [privacy.googleAnalytics]
     # ...
-  [privacy.twitter]
+  [privacy.x]
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
@@ -390,8 +395,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 #########################
 # Permalinks config
 [Permalinks]
-  # posts = ":year/:month/:filename"
-  posts = ":filename"
+  # posts = ":year/:month/:contentbasename"
+  posts = ":contentbasename"
 
 
 #########################
